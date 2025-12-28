@@ -18,19 +18,17 @@ A robust, fully normalized SQL Server database solution designed to manage the c
 
 📂 Project Structure:
 
-Hyperlocal_Delivery_Platform/
-├── 📄 README.md                          # Complete project documentation (this file)
-├── 📄 Hyperlocal_Delivery_Platform.sqlproj  # SQL Server project file
-├── 📄 table_creation.sql                 # Complete database schema (12+ tables)
-├── 📄 inserting_sample_data.sql          # Realistic sample data (100+ orders, 50+ products)
-├── 📄 key_queries.sql                    # Business intelligence and analytics queries
-├── 📄 performance_optimization.sql       # Indexes, views, and query optimization
-├── 📄 stored_procedures_triggers.sql     # Business logic automation
-├── 📄 accessibility_and_security.sql     # Role-based access control (RBAC)
-├── 📄 scheduling_jobs.sql                # SQL Server Agent Jobs automation
-├── 📄 ER_Hyperlocal.png                  # Entity-Relationship Diagram
-└── .vscode/
-   └── .gitignore                        # Version control configuration
+Hyperlocal_Delivery_Platform/📄 README.md                          # Complete project documentation (this file)
+Hyperlocal_Delivery_Platform/📄 Hyperlocal_Delivery_Platform.sqlproj  # SQL Server project file
+Hyperlocal_Delivery_Platform/📄 table_creation.sql                 # Complete database schema (12+ tables)
+Hyperlocal_Delivery_Platform/📄 inserting_sample_data.sql          # Realistic sample data (100+ orders, 50+ products)
+Hyperlocal_Delivery_Platform/📄 key_queries.sql                    # Business intelligence and analytics queries
+Hyperlocal_Delivery_Platform/📄 performance_optimization.sql       # Indexes, views, and query optimization
+Hyperlocal_Delivery_Platform/📄 stored_procedures_triggers.sql     # Business logic automation
+Hyperlocal_Delivery_Platform/📄 accessibility_and_security.sql     # Role-based access control (RBAC)
+Hyperlocal_Delivery_Platform/📄 scheduling_jobs.sql                # SQL Server Agent Jobs automation
+Hyperlocal_Delivery_Platform/📄 ER_Hyperlocal.png                  # Entity-Relationship Diagram
+Hyperlocal_Delivery_Platform/.vscode/.gitignore                     # Version control configuration
 
 📈 Sample Analytics:
 
